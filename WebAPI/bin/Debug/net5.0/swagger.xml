@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.MovieController.GetById(System.Int32)">
+            <summary>
+            Renvoi un film avec son casting
+            </summary>
+            <param name="Id">Obligatoirement un entier</param>
+            <response code="200">Requête validée</response>
+            <returns>Renvoi un film avec son casting
+            </returns>
+        </member>
+        <member name="M:WebAPI.Controllers.MovieController.Delete(System.Int32)">
+            <summary>
+            Supprime un film
+            </summary>
+            <param name="Id"></param>
+            <response code="400">Vous essayez de supprimer un favoris</response>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\DemoContact\bin\Debug\DemoMovie.dacpac
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\DemoContact\obj\Debug\DemoContact.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\DemoContact\obj\Debug\DemoContact.pdb
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\DemoContact\bin\Debug\DemoContact.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\DemoContact\bin\Debug\DemoContact.pdb

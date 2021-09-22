@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Casting] (
+    [Id] INT PRIMARY KEY IDENTITY,
+    [ActorId] INT NOT NULL,
+    [MovieId] INT NOT NULL,
+    CONSTRAINT FK_CASTING_Movie FOREIGN KEY (MovieId) REFERENCES Movie(Id),
+    CONSTRAINT FK_CASTING_Actors FOREIGN KEY (ActorId) REFERENCES Actors(Id)
+)

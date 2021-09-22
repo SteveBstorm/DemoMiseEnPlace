@@ -1,0 +1,17 @@
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\ADOToolbox.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\bin\Debug\net5.0\ADOToolbox.pdb
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Steve\source\Demo\NetAzure21\DemoMiseEnPlace\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb
